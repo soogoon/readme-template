@@ -35,7 +35,7 @@ Describe how to install all development dependencies and how to run an automated
 
 ```sh
 make install
-npm test
+npm start
 ```
 
 ## Release History
